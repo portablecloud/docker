@@ -1,4 +1,4 @@
-// +build solaris linux freebsd
+// +build !windows
 
 package config
 
